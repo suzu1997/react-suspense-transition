@@ -1,5 +1,5 @@
 # react-suspense-transition
-Reactv18学習前に、suspenseとtransitionの基礎学習
+Reactのsuspenseとtransitionの基礎学習
 
 ## 教材
 
